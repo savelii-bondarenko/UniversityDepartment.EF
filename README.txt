@@ -7,8 +7,6 @@
 	dotnet ef migrations add InitialCreate --project ElectronicDepartment.DAL --startup-project ElectronicDepartment.PL
 	dotnet ef database update --project ElectronicDepartment.DAL --startup-project ElectronicDepartment.PL
 
-"DefaultConnection": "Server=OLEKSII\\SQLEXPRESS01;Database=ElectronicDepartmentDb;Trusted_Connection=True;TrustServerCertificate=True;"
-
 
 
 
