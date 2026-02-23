@@ -1,4 +1,4 @@
-#Electronic Department API
+# Electronic Department API
 
 An ASP.NET Core Web API for managing an electronic university department. This system provides role-based access to manage departments, groups, subjects, students, teachers, and grades.
 
@@ -96,7 +96,3 @@ The project includes a comprehensive suite of unit tests for the Business Logic 
 dotnet test
 
 ```
-
-
-
-
